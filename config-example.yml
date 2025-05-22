@@ -1,0 +1,5 @@
+localip: "127.0.0.1"
+port: 80
+hostdomain: "rwfc.net"
+wfcremote: "http://127.0.0.1:8080"
+defaultremote: "http://:127.0.0.1:8081"
