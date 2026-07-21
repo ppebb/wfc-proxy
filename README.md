@@ -1,5 +1,7 @@
 # wfc-proxy
 
+As of https://github.com/Retro-Rewind-Team/wfc-patcher-wii/commit/2aed974021fdbc6123d12577f83ffd57e45f8d44, this tool is no longer necessary. wfc-server can be routed behind nginx as all requests should be HTTP compliant.
+
 Simple reverse proxy to sit in front of
 [wfc-server](https://github.com/WiiLink24/wfc-server) and properly forward
 malformed DWC requests.  
